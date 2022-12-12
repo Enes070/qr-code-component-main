@@ -1,0 +1,43 @@
+.qr_card{
+    margin:20rem auto;
+    width: 450px;
+    height: 700px;
+    background-color: var(--white);
+    border-radius: 1.5rem;
+
+    line-height: 1.5rem;
+}
+
+.qr_photo{
+    margin: 25px;
+    img{
+        width: 400px;
+        height: 400px;
+        margin-top: 25px;
+        border-radius: 1.5rem;
+    }
+}
+
+.qr_detail{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: 'Outfit', sans-serif;
+    color: var(--dark_blue);
+    text-align: center;
+    line-height: 2.3rem;
+}
+
+.qr_comment{
+    margin-top: 2rem;
+    margin-left: 3rem;
+    margin-right: 3.5rem;
+    font-size: 1.5rem;
+    font-family: 'Outfit' sans-serif;
+    font-weight: 400;
+    color: var(--grayish_blue);
+    text-align: center;
+    line-height: 2rem;
+}

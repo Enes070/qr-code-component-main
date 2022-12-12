@@ -1,0 +1,22 @@
+:root{
+    --white:#ffffff;
+    --light_gray:#D6e2f0;
+    --grayish_blue:#7b869d;
+    --dark_blue:#1f3151;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    box-sizing: border-box;
+    font-size: 90%;
+}
+body{
+    background-color: var(--light_gray);
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+}
+
+
